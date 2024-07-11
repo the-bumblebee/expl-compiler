@@ -1,0 +1,17 @@
+//MOD:::
+
+exprtree.h->
+struct Gsymbol{}
+
+exprtree.c->
+Ginstall()
+
+reglib.c->
+label_count
+flabel
+
+exprtree.y->
+Fdef:
+  //flabel
+MainBlock:
+  //flabel

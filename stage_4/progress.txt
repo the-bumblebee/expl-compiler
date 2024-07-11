@@ -1,0 +1,23 @@
+ID'['expr']'
+case 19:
+
+Array implementing;-
+nodetype-19 with a left child(expr)
+Declaration-ok
+Assignment-ok
+a[2] = 10;
+
+Write-ok
+
+Read-ok
+expression-ok
+
+
+added=>
+1. endwhile;
+2. endif;
+3. MOD opertor(node 20)
+
+To be==>
+1. SP
+2. array node or ID node indexedWS

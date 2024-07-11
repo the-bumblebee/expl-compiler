@@ -1,0 +1,16 @@
+redeclaration multiple times in descendent class.
+-if check via flabel, then multiple definiton type check remove
+
+descendent class set
+function table set
+
+done:
+-self becomes bp-4
+-added vptr to second space
+-descendent class object referenced by parent
+
+to do:
+-call using vptr
+-make provision in Assignment case in reglib for assigning vptr
+-pass vptr when invoking self.method() within a method of the same class
+-getIDAddress add nodetype 30 for getting vptr base address

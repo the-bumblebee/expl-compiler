@@ -1,0 +1,11 @@
+begin
+write(2);
+i = 2;
+while ((i < 4) < 1) do
+i = i + 1;
+if(i == 5) then
+continue;
+endif
+write(i);
+endwhile
+end

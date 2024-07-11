@@ -1,0 +1,8 @@
+decl
+int a[10], x, y,z;
+enddecl
+begin
+
+x=a[x+y];
+
+end

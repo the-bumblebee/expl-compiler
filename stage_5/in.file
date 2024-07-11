@@ -1,0 +1,13 @@
+
+
+  decl
+  enddecl
+
+  int main()
+  {
+   begin
+   write("Hello");
+
+    return 0;
+   end
+  }

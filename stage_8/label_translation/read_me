@@ -1,0 +1,9 @@
+Usage::>
+
+./label.out <input_file>
+./label.out
+
+Compiling::>
+
+>>> lex label.i
+>>> gcc lex...c 
